@@ -28,5 +28,5 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=JustFady&style=flat-square" alt="Profile Views" />
+![Profile Views](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/JustFady)
 </p>
