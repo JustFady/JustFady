@@ -5,8 +5,9 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,linux,aws" width="260" alt="Python"/>
 </p>
 <p align="left">
-  <img src="https://camo.githubusercontent.com/297b65e28cb898478b98f2cbad827a24ee7057bb2026830c42781682cb897109/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d66726f6c6f77657226267374796c653d666c61742d737175617265" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=JustFady&style=flat-square" alt="Profile Views" />
 </p>
+
 
 
 
