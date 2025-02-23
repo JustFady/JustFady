@@ -2,7 +2,7 @@
 
 ## 🛠 Favorite Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,java,javascript,linux,aws" width="290" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,java,javascript,linux,aws" width="300" alt="Python"/>
 </p>
 
 ## 🌐 Connections:
