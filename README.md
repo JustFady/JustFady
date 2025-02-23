@@ -24,6 +24,6 @@
 
 ## 🛠 Favorite Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,linux,aws" width="250" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,linux,aws" width="270" alt="Python"/>
 </p>
 
