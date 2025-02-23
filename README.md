@@ -5,6 +5,11 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,linux,aws" width="260" alt="Python"/>
 </p>
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustFady&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+
 ## 🌐 Connections:
 <p align="left">
   <a href="https://github.com/JustFady" target="_blank">
