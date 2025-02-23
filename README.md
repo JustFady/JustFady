@@ -10,8 +10,9 @@
 </p>
 
 <p align="left">
-  <img src="https://github.com/JustFady/JustFady/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JustFady&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
+
 
 
 
