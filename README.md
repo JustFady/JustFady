@@ -9,6 +9,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustFady&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="left">
+  <img src="https://github.com/JustFady/JustFady/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+
 
 ## 🌐 Connections:
 <p align="left">
