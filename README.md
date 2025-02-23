@@ -1,4 +1,5 @@
 ![sf](https://github.com/user-attachments/assets/f2ad5df5-19a9-48f5-89e5-fa7f4c965615)
+
 ## 🌐 Connections:
 <p align="left">
   <a href="https://github.com/JustFady" target="_blank">
@@ -21,3 +22,15 @@
   </a>
 </p>
 
+## 🛠 Favorite Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,bash" width="200" alt="Languages"/>
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,docker,aws" width="200" alt="Development Tools"/>
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,terminal,regex" width="200" alt="Other Tools"/>
+</p>
