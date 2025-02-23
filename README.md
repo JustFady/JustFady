@@ -25,6 +25,9 @@
   <a href="mailto:thefady4@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" alt="Email"/>
   </a>
+  <p align="right">
+  <img src="https://komarev.com/ghpvc/?username=JustFady&style=for-the-badge&color=blue" alt="Profile Views" />
+</p>
 </p>
 
 <p align="right">
