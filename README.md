@@ -16,9 +16,6 @@
   <a href="https://open.spotify.com/user/thefady4" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="40" alt="Spotify"/>
   </a>
-<a href="https://discord.com/users/durantulaa" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
   <a href="mailto:thefady4@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" alt="Email"/>
   </a>
