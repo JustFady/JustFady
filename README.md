@@ -10,6 +10,9 @@
   <a href="https://github.com/JustFady" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
   </a>
+  <a href="https://www.hackerrank.com/profile/Durantulaa" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" alt="HackerRank"/>
+  </a>
   <a href="https://www.linkedin.com/in/justfadyy/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
   </a>
