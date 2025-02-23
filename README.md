@@ -28,5 +28,6 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=JustFady&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=JustFady&style=social" alt="Profile Views" />
 </p>
+
