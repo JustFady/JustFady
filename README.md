@@ -17,7 +17,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="40" alt="Spotify"/>
   </a>
   <a href="https://discord.com/users/durantulaa" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Discord_logo_2015.svg" width="40" alt="Discord"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Discord_Logo_full.svg" width="80" alt="Discord"/>
   </a>
   <a href="mailto:thefady4@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" alt="Email"/>
