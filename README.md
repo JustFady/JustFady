@@ -4,16 +4,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,linux,aws" width="260" alt="Python"/>
 </p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=JustFady&style=flat-square" alt="Profile Views" />
-</p>
-
-
-
-
-
-
-
 
 ## 🌐 Connections:
 <p align="left">
@@ -35,4 +25,8 @@
   <a href="mailto:thefady4@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" alt="Email"/>
   </a>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=JustFady&style=flat-square" alt="Profile Views" />
 </p>
