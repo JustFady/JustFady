@@ -28,5 +28,5 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=JustFady&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=JustFady&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
