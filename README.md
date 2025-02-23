@@ -27,6 +27,6 @@
   </a>
 </p>
 
-<p align="left">
+<p align="right">
   <img src="https://komarev.com/ghpvc/?username=JustFady&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
