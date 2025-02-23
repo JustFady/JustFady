@@ -16,14 +16,10 @@
   <a href="https://open.spotify.com/user/thefady4" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="40" alt="Spotify"/>
   </a>
-<!--   <a href="https://instagram.com/justfadyy_" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" alt="Instagram"/>
+  <a href="https://discord.com/users/durantulaa" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/6/60/Discord_logo_2015.svg" width="40" alt="Discord"/>
   </a>
-  <a href="https://steamcommunity.com/id/Durantulaa/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/steam/steam-original.svg" width="40" alt="Steam"/>
+  <a href="mailto:thefady4@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" alt="Email"/>
   </a>
-  <a href="https://open.spotify.com/user/thefady4" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spotify/spotify-original.svg" width="40" alt="Spotify"/>
-  </a> -->
 </p>
-
