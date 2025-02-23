@@ -1,5 +1,10 @@
 ![sf](https://github.com/user-attachments/assets/f2ad5df5-19a9-48f5-89e5-fa7f4c965615)
 
+## 🛠 Favorite Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,linux,aws" width="270" alt="Python"/>
+</p>
+
 ## 🌐 Connections:
 <p align="left">
   <a href="https://github.com/JustFady" target="_blank">
@@ -21,9 +26,3 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" alt="Email"/>
   </a>
 </p>
-
-## 🛠 Favorite Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,linux,aws" width="270" alt="Python"/>
-</p>
-
