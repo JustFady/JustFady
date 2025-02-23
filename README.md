@@ -24,13 +24,6 @@
 
 ## 🛠 Favorite Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,bash" width="200" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,linux,aws" width="40" alt="Python"/>
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,docker,aws" width="200" alt="Development Tools"/>
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,terminal,regex" width="200" alt="Other Tools"/>
-</p>
