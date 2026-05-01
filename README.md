@@ -1,11 +1,29 @@
 ![sf](https://github.com/user-attachments/assets/f2ad5df5-19a9-48f5-89e5-fa7f4c965615)
 
-## 🛠 Favorite Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,java,javascript,linux,aws" width="300" alt="Python"/>
-</p>
+### Languages
 
-## 🌐 Connections:
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+
+<!-- <p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,java,javascript,linux,aws" width="300" alt="Python"/>
+</p> -->
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+
+<!-- 
+### Connections
 <p align="left">
   <a href="https://github.com/JustFady" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
@@ -33,3 +51,4 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=JustFady&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
+-->
