@@ -2,7 +2,9 @@
   <img width="100%" alt="Fady Youssef Banner" src="https://github.com/user-attachments/assets/d352f2a3-ccdc-4c05-923b-c1f71edbab99" />
 </div>
 
+<!--
 ![sf](https://github.com/user-attachments/assets/f2ad5df5-19a9-48f5-89e5-fa7f4c965615)
+-->
 
 ### Languages
 
