@@ -23,4 +23,4 @@ Software engineer in Austin, TX. I write firmware by day and spend the rest of m
 
 Python · TypeScript · C/C++ · Java · STM32 / ESP32 / FreeRTOS · Model Context Protocol · Docker · AWS
 
-[Website](https://fadyyoussef.dev) · [LinkedIn](https://www.linkedin.com/in/fadyyoussef08/) · thefady4@gmail.com
+[Website](https://fadyyoussef.dev) · [LinkedIn](https://www.linkedin.com/in/fadyyoussef08/) · itsfadyy02@gmail.com
