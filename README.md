@@ -11,6 +11,7 @@ Software engineer in Austin, TX. I write firmware by day and spend the rest of m
 | Project | What it is |
 |---|---|
 | [mcp-serial](https://github.com/JustFady/mcp-serial) | MCP server: serial console, log tailing, gated STM32/ESP32 flashing (Python) |
+| [mcp-server-template](https://github.com/JustFady/mcp-server-template) | Production-shaped MCP server starter: bearer auth, per-client rate limits, host allow-list, logging, tests, Docker, CI (Python) |
 | [Aegis](https://github.com/JustFady/Aegis) | LLM pre-commit guardrail that audits staged diffs and applies fixes (TypeScript) |
 | [kinetic-edge](https://github.com/JustFady/kinetic-edge) | Local video-AI pipeline with YOLOv8 tracking, Docker-packaged (C++/Python) |
 | [OurPL-Lang](https://github.com/JustFady/OurPL-Lang) | A small language and tree-walking interpreter from scratch (Java) |
