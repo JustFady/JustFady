@@ -1,60 +1,23 @@
-<!--
-<div align="center">
-  <img width="100%" alt="Fady Youssef Banner" src="https://github.com/user-attachments/assets/d352f2a3-ccdc-4c05-923b-c1f71edbab99" />
-</div>
--->
-
 ![sf](https://github.com/user-attachments/assets/f2ad5df5-19a9-48f5-89e5-fa7f4c965615)
 
-### Languages
+### Hi, I'm Fady.
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+Software engineer in Austin, TX. I write firmware by day and spend the rest of my time wiring language models into real systems: agents with tools, MCP servers, and LLM features that ship with evals and logging instead of demos. Gonzaga CS '26 with a software-security concentration.
 
-<!-- <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,java,javascript,linux,aws" width="300" alt="Python"/>
-</p> -->
+**Now:** building [`mcp-serial`](https://github.com/JustFady/mcp-serial), an MCP server that lets Claude open a serial console, tail firmware logs, and flash STM32/ESP32 boards safely. Open to select AI-integration and embedded projects → [fadyyoussef.dev](https://fadyyoussef.dev).
 
-### Technologies
+### Selected work
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
+| Project | What it is |
+|---|---|
+| [mcp-serial](https://github.com/JustFady/mcp-serial) | MCP server: serial console, log tailing, gated STM32/ESP32 flashing (Python) |
+| [Aegis](https://github.com/JustFady/Aegis) | LLM pre-commit guardrail that audits staged diffs and applies fixes (TypeScript) |
+| [kinetic-edge](https://github.com/JustFady/kinetic-edge) | Local video-AI pipeline with YOLOv8 tracking, Docker-packaged (C++/Python) |
+| [OurPL-Lang](https://github.com/JustFady/OurPL-Lang) | A small language and tree-walking interpreter from scratch (Java) |
+| [orderbook-organism](https://github.com/JustFady/orderbook-organism) | Market microstructure as a replayable pressure landscape (React) |
 
-<!-- 
-### Connections
-<p align="left">
-  <a href="https://github.com/JustFady" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/>
-  </a>
-<a href="https://www.hackerrank.com/profile/Durantulaa" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" alt="HackerRank"/>
-  </a>
-  <a href="https://www.linkedin.com/in/justfadyy/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/justfadyy_" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" alt="Instagram"/>
-  </a>
-  <a href="https://steamcommunity.com/id/Durantulaa/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40" alt="Steam"/>
-  </a>
-  <a href="https://open.spotify.com/user/thefady4" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg" width="40" alt="Spotify"/>
-  </a>
-  <a href="mailto:thefady4@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" alt="Email"/>
-  </a>
-</p>
+### Stack
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=JustFady&style=for-the-badge&color=blue" alt="Profile Views" />
-</p>
--->
+Python · TypeScript · C/C++ · Java · STM32 / ESP32 / FreeRTOS · Model Context Protocol · Docker · AWS
+
+[Website](https://fadyyoussef.dev) · [LinkedIn](https://www.linkedin.com/in/fadyyoussef08/) · thefady4@gmail.com
