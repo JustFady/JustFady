@@ -1,5 +1,7 @@
 ![sf](https://github.com/user-attachments/assets/f2ad5df5-19a9-48f5-89e5-fa7f4c965615)
 
+Software engineer in Austin, TX, working on embedded systems and backend software.
+
 ### Languages
 
 ![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=A8B9CC)
@@ -7,21 +9,25 @@
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
 
-### Technologies
+### Embedded & Systems
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-000?&logo=Arm&logoColor=00A9E0)
+![Qt](https://img.shields.io/badge/-Qt-000?&logo=qt)
+![GStreamer](https://img.shields.io/badge/-GStreamer-000?&logo=gstreamer)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
+
+### Backend & Tooling
+
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000?&logo=GitHub-Actions)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?&logo=cloudflare)
+![AWS](https://img.shields.io/badge/-AWS-000)
 
 ### Connections
 
