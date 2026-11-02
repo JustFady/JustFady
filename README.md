@@ -1,26 +1,35 @@
 ![sf](https://github.com/user-attachments/assets/f2ad5df5-19a9-48f5-89e5-fa7f4c965615)
 
-### Hi, I'm Fady.
+### Languages
 
-Software engineer in Austin, TX. I write firmware by day and spend the rest of my time wiring language models into real systems: agents with tools, MCP servers, and LLM features that ship with evals and logging instead of demos. Gonzaga CS '26 with a software-security concentration.
+![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
 
-**Now:** building [`mcp-serial`](https://github.com/JustFady/mcp-serial), an MCP server that lets Claude open a serial console, tail firmware logs, and flash STM32/ESP32 boards safely. Open to select AI-integration and embedded projects → [fadyyoussef.dev](https://fadyyoussef.dev).
+### Technologies
 
-### Selected work
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-000?&logo=Arm&logoColor=00A9E0)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-000?&logo=GitHub-Actions)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 
-| Project | What it is |
-|---|---|
-| [mcp-serial](https://github.com/JustFady/mcp-serial) | MCP server: serial console, log tailing, gated STM32/ESP32 flashing (Python) |
-| [mcp-server-template](https://github.com/JustFady/mcp-server-template) | Production-shaped MCP server starter: bearer auth, per-client rate limits, host allow-list, logging, tests, Docker, CI (Python) |
-| [inbox-triage](https://github.com/JustFady/inbox-triage) | Email triage with human approval: classify, draft in your voice, queue, log; offline evals (Python) |
-| [docpipe](https://github.com/JustFady/docpipe) | Document pipeline: classify, extract to a schema, validate with cross-field rules, route exceptions, per-field evals (Python) |
-| [Aegis](https://github.com/JustFady/Aegis) | LLM pre-commit guardrail that audits staged diffs and applies fixes (TypeScript) |
-| [kinetic-edge](https://github.com/JustFady/kinetic-edge) | Local video-AI pipeline with YOLOv8 tracking, Docker-packaged (C++/Python) |
-| [OurPL-Lang](https://github.com/JustFady/OurPL-Lang) | A small language and tree-walking interpreter from scratch (Java) |
-| [orderbook-organism](https://github.com/JustFady/orderbook-organism) | Market microstructure as a replayable pressure landscape (React) |
+### Connections
 
-### Stack
-
-Python · TypeScript · C/C++ · Java · STM32 / ESP32 / FreeRTOS · Model Context Protocol · Docker · AWS
-
-[Website](https://fadyyoussef.dev) · [LinkedIn](https://www.linkedin.com/in/fadyyoussef08/) · itsfadyy02@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/fadyyoussef08/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:itsfadyy02@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" alt="Email"/>
+  </a>
+</p>
