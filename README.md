@@ -3,6 +3,12 @@
 ### Connections
 
 <p align="left">
+  <a href="https://fadyyoussef.dev" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f310.svg" width="40" alt="Website"/>
+  </a>
+  <a href="https://fadyyoussef.dev/FYoussef_Resume.pdf" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4c4.svg" width="40" alt="Resume"/>
+  </a>
   <a href="https://www.linkedin.com/in/fadyyoussef08/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
   </a>
