@@ -36,4 +36,7 @@
   <a href="mailto:itsfadyy02@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" alt="Email"/>
   </a>
+  <a href="https://steamcommunity.com/id/Durantulaa/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40" alt="Steam"/>
+  </a>
 </p>
