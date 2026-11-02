@@ -1,5 +1,19 @@
 ![sf](https://github.com/user-attachments/assets/f2ad5df5-19a9-48f5-89e5-fa7f4c965615)
 
+### Connections
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/fadyyoussef08/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:itsfadyy02@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" alt="Email"/>
+  </a>
+  <a href="https://steamcommunity.com/id/Durantulaa/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40" alt="Steam"/>
+  </a>
+</p>
+
 ### Languages
 
 ![C](https://img.shields.io/badge/-C-000?&logo=c&logoColor=A8B9CC)
@@ -26,17 +40,3 @@
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-000?&logo=cloudflare)
 ![AWS](https://img.shields.io/badge/-AWS-000)
-
-### Connections
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/fadyyoussef08/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:itsfadyy02@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="40" alt="Email"/>
-  </a>
-  <a href="https://steamcommunity.com/id/Durantulaa/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40" alt="Steam"/>
-  </a>
-</p>
